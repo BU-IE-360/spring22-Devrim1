@@ -7,7 +7,7 @@
 [Here](HW1_R_Code.ipynb) HW1 (Code) -> R Codes are here
 
 ### Project
-[Here](IE360_Project_Report(6).html) -> Project Report
+[Here](IE360_Project_Report.html) -> Project Report
 
 [Here](Project5.ipynb) -> Project Codes
 
